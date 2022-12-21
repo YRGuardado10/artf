@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class tree extends Model
 {
     use HasFactory;
+    
 }
