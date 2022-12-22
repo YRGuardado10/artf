@@ -141,7 +141,7 @@
                     </a>
                 </div>
                 <div class="btn">
-                    <a href="#">
+                    <a href="{{route('transport')}}">
                         <button>
                             <div class="logo">
                                 <img src="../img/image 2.png" alt="">
@@ -164,7 +164,7 @@
                 </div>
             </div>
             <div class="button2">
-                <a href="{{route('transport')}}">
+                <a href="{{route('calculo')}}">
                     <button>
                         Da click aquí
                     </button>
