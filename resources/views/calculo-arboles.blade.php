@@ -97,7 +97,7 @@
 <div class="container-sec4">
     <div class="container"></div>
     <div class="but">
-        <a href="{{route('alternative')}}">
+        <a href="#">
             <button>
                 Da Click Aquí
             </button>
