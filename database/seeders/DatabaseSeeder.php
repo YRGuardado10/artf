@@ -2,9 +2,9 @@
 
 namespace Database\Seeders;
 
-use App\Models\tree;
-use App\Models\vehicle;
-use App\Models\visit;
+use App\Models\Tree;
+use App\Models\Vehicle;
+use App\Models\Visit;
 use App\Models\car;
 use App\Models\moto;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
