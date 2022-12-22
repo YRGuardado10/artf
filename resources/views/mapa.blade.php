@@ -125,7 +125,7 @@
                                     <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('stats')}}">Estadisticas</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="https://artfco2-travelcost.herokuapp.com/">Cálculo costo de viaje (automóvil)</a>
+                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('costo')}}">Cálculo costo de viaje (automóvil)</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('mapa')}}">Talleres de mantenimiento</a>
