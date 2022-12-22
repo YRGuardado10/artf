@@ -33,19 +33,19 @@
                                     <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('calculo')}}">Cálculo de árboles</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="#">Alternativa para compensar huella de carbono</a>
+                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('alternative')}}">Alternativa para compensar huella de carbono</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="#">Medios alternativos de transporte</a>
+                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('medio')}}">Medios alternativos de transporte</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="#">Estadisticas</a>
+                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('stats')}}">Estadisticas</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="#">Cálculo costo de viaje (automóvil)</a>
+                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('costo')}}">Cálculo costo de viaje (automóvil)</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="#">Talleres de mantenimiento</a>
+                                    <a class="nav-link active px-xl-4 px-lg-3 px-md-1 pt-3" aria-current="page" href="{{route('mapa')}}">Talleres de mantenimiento</a>
                                 </li>
                             </ul>
                         </div>

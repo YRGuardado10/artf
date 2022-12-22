@@ -7,8 +7,8 @@ Use App\Classes\Tree;
 use App\Models\Footprint;
 use App\Http\Requests\{TreeRequest, alternativeTransportRequest, CostoRequest};
 use App\Models\Tree as ModelsTree;
-use App\Models\vehicle;
-use App\Models\visit;
+use App\Models\Vehicle;
+use App\Models\Visit;
 use App\Models\car;
 use App\Models\moto;
 
