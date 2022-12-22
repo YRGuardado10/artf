@@ -164,7 +164,7 @@
                 </div>
             </div>
             <div class="button2">
-                <a href="#">
+                <a href="{{route('transport')}}">
                     <button>
                         Da click aquí
                     </button>
