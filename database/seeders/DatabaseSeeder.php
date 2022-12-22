@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
     {
         // \App\Models\User::factory(10)->create();
 
-        tree::create([
+        Tree::create([
             'name' => 'Mezquite',
             'scientific_name' => 'Propis Glandulosa',
             'url_img' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Velvet_mesquite.jpg/1024px-Velvet_mesquite.jpg',
